@@ -25,6 +25,8 @@
   width: 88vh;
   background-color:black;
   color:white;
+  height: 50px;
+  text-align: right;
 }
 #equals{
   grid-column:5;
