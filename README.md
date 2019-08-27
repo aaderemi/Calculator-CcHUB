@@ -1,2 +1,2 @@
-# Calculator-CcHUB
-Calculator for CcHUB graduate program
+# Calc
+Calc program
